@@ -1,5 +1,5 @@
 # Drake Equation
-R Shiny simulation of the Drake equation
+R code for Shiny simulation of the Drake equation
 
 R = the star formation rate. (normal distribution) <br />
 fp = the fraction of stars with planetary systems. (uniform distribution between 0 and 1) <br />
