@@ -10,4 +10,4 @@ fc = the fraction of civilizations that perform interstellar communications. (un
 L = length of time for civilizations to transmit detectable signals in space. (normal distribution) <br />
 N = the number of civilizations that communication might be possible. <br />
 
-Histogram plot of distribution of N can be changed by changing the mean and SD values of R, Ne, and fc using sliders.
+Histogram plot of distribution of N can be changed by changing the mean and SD values of R, Ne, and L using sliders.
